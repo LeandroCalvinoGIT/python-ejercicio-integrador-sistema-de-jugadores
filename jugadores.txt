@@ -1,0 +1,4 @@
+Alex;2;1;1
+Alex;3;45;Casa,Pala
+Alex;5;454;Pala,Pico,Casa
+Mary;443;45;Plato,Taza,Papas fritas
